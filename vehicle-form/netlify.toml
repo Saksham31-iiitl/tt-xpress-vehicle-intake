@@ -1,0 +1,4 @@
+[build]
+  base = "vehicle-form"
+  command = "npm run build"
+  publish = "vehicle-form/build"
